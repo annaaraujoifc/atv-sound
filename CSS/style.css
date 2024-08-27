@@ -1,0 +1,31 @@
+/*===============
+    css reset
+=================*/
+
+* {
+    padding: 0;
+    margin: 0;
+    vertical-align: baseline;
+    list-style: none;
+    border: 0
+}
+
+body header nav ul {
+
+    display: flex;
+    
+}
+
+body header nav ul p {
+
+    margin: 0 60vw 0 2vw;
+   
+
+}
+
+
+body header nav ul li {
+
+    margin: 0 1vw 0 2vw;
+
+}
